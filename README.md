@@ -1,3 +1,3 @@
 ## libstu 📖
 
-gathering my replicas of functions from different libraries in C.
+gathering my function's replicas from different libraries in C.
